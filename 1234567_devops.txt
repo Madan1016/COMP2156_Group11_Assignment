@@ -1,1 +1,2 @@
 The COMP 3104 DevOps course teaches key principles of DevOps, including CI/CD pipelines and cloud tools.
+COMP 3104 teaches the importance of automation in the software development pipeline.
