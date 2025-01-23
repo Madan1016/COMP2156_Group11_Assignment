@@ -2,3 +2,4 @@ The COMP 3104 DevOps course teaches key principles of DevOps, including CI/CD pi
 COMP 3104 teaches the importance of automation in the software development pipeline.
 CI/CD pipelines help automate testing and deployment processes.
 Automation is key in DevOps, ensuring faster, error-free software delivery.
+DevOps tools such as Docker, Jenkins, and Kubernetes are essential for automating tasks and improving the efficiency of software development processes.
