@@ -1,2 +1,2 @@
-COMP 3104 DevOps Course Information.
-COMP 3104 covers CI/CD, automation, and containerization.
+COMP2156 DevOps Course Information.
+COMP2156 covers CI/CD, automation, and containerization.
