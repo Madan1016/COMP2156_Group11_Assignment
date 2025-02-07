@@ -3,10 +3,10 @@
 ## Group Members
 - **Leader:** Madan Bista (101494124) - [GitHub](https://github.com/Madan1016)
 - **Member 2:** Devraj Neupane(101494054) - [GitHub](https://github.com/Devraj0425)
-- **Member 3:** Roshan Limbu(1) - [GitHub](https://github.com/Limbu934)
+- **Member 3:** Roshan Limbu(101511819) - [GitHub](https://github.com/Limbu934)
 - **Member 4:** Dipesh Khadka(1) - [GitHub](https://github.com/DeepEsh2025)
 - **Member 5:** Heemal Acharya(1) - [GitHub](https://github.com/heemal123456)
-- **Member 6:** Ram Karki(1) - [GitHub](https://github.com/RamKarki99)
+- **Member 6:** Ram Karki(101494736) - [GitHub](https://github.com/RamKarki99)
 
 
 ## Project Description
