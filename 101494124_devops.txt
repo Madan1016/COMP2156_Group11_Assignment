@@ -1,0 +1,4 @@
+COMP 3104 is a DevOps course that focuses on CI/CD, automation, and cloud computing.
+Topics include containerization, infrastructure as code, and version control.
+Learning DevOps improves collaboration, accelerates deployments, and enhances system reliability.
+Summary: This course equips students with essential DevOps skills for modern IT environments.
