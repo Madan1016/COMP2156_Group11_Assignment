@@ -1,1 +1,2 @@
 Importance of DevOps in SDLC.
+DevOps improves software lifecycle efficiency by automating workflows.
