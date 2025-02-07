@@ -1,0 +1,1 @@
+Common DevOps tools include Docker, Kubernetes, Jenkins, and Ansible.
