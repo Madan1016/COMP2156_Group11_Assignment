@@ -2,7 +2,9 @@
 
 ## Group Members
 - **Leader:** Madan Bista (101494124) - [GitHub](https://github.com/Madan1016)
+- **Member 2:** Devraj (101494054) - [GitHub](https://github.com/Devraj0425)
 - **Member 2:** Madan Bista (101494124) - [GitHub](https://github.com/Madan1016)
+
 
 ## Project Description
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
