@@ -6,3 +6,4 @@ Key benefits include:
 - Automation reduces errors and speeds up workflows.
 - Monitoring and feedback loops improve software performance and security.
 By integrating DevOps in SDLC, organizations can innovate faster and maintain reliable software systems.
+Devops for system admin
