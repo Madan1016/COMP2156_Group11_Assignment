@@ -1,0 +1,4 @@
+COMP 3104 is a course at George Brown College that focuses on DevOps practices, including continuous integration, continuous delivery, and infrastructure as code.
+Course: COMP3104 - DevOps
+Instructor: Pritesh Patel
+Topics Covered: CI/CD, Git, Docker, Kubernetes
