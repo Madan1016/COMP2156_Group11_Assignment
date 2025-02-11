@@ -3,3 +3,4 @@ It covers topics such as automation, CI/CD (Continuous Integration & Deployment)
 containerization (Docker, Kubernetes), monitoring, and security. 
 The course helps students understand collaboration between development and operations teams to 
 improve software delivery efficiency.
+DevOps
