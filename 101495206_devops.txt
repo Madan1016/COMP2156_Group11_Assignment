@@ -1,4 +1,5 @@
-COMP 2156 is a course at George Brown College that focuses on DevOps practices, including continuous integration, continuous delivery, and infrastructure as code.
-Course: COMP2156 - DevOps
-Instructor: Pritesh Patel
-Topics Covered: CI/CD, Git, Docker, Kubernetes
+COMP 3104 - DevOps introduces students to modern software development and IT operations practices. 
+It covers topics such as automation, CI/CD (Continuous Integration & Deployment), infrastructure as code, 
+containerization (Docker, Kubernetes), monitoring, and security. 
+The course helps students understand collaboration between development and operations teams to 
+improve software delivery efficiency.
