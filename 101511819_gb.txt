@@ -1,8 +1,0 @@
-Student - Roshan Limbu
-id = 101511819
-casaloma campus
-George Brown College is a public college located in Toronto, Canada. 
-It offers a variety of programs in business, technology, design, health sciences, and hospitality. 
-The college focuses on practical, hands-on learning and industry collaboration. 
-George Brown has multiple campuses, including Casa Loma, St. James, and Waterfront.
-GBC casa loma campuses (School of computer technology)
