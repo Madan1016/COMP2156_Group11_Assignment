@@ -1,0 +1,3 @@
+COMP 32156 - DevOps for System Administration is a course that focuses on the principles and practices of DevOps.
+Students will learn about continuous integration, continuous delivery, and various tools used for system administration in the DevOps environment.
+The course aims to bridge the gap between development and operations, enhancing collaboration and automation in IT operations.
