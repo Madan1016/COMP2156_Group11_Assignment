@@ -1,4 +1,0 @@
-DevOps practices improve communication and foster continuous improvement in the software lifecycle.
-It includes phases like planning, design, coding, testing, and maintenance. 
-DevOps adds value to SDLC by promoting collaboration and automation.
-It helps streamline processes, reduce errors, and accelerate project timelines. 
