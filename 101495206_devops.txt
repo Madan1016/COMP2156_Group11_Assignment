@@ -1,1 +1,2 @@
 COMP 3104 DevOps teaches CI/CD, automation, and cloud integration.
+The course covers Git, Docker, Kubernetes, and Jenkins.
