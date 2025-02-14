@@ -1,0 +1,3 @@
+DevOps enhances collaboration between development and operations teams.
+It enables faster software delivery through automation and CI/CD pipelines.
+Learning DevOps improves scalability, reliability, and security in SDLC.
