@@ -1,2 +1,3 @@
 DevOps role in SDLC ensures better collaboration and faster delivery.
 Key DevOps practices include Continuous Integration and Continuous Deployment (CI/CD).
+Author: Himal (101495206)
