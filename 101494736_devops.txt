@@ -1,0 +1,4 @@
+COMP 3104 DevOps focuses on software development and IT operations.
+The course covers automation, CI/CD, containerization, and cloud deployment.
+DevOps practices help improve collaboration, efficiency, and software quality.
+Students learn tools like Docker, Kubernetes, Jenkins, and Git.
