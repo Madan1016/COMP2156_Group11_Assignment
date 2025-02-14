@@ -1,6 +1,0 @@
-COMP 3104 DevOps teaches CI/CD, automation, and cloud integration.
-The course covers Git, Docker, Kubernetes, and Jenkins.
-Automation in DevOps reduces errors and improves efficiency.
-DevOps for System Administration is a course that focuses on the principles and practices of DevOps.
-Students will learn about continuous integration, continuous delivery, and various tools used for system administration in the DevOps environment.
-The course aims to bridge the gap between development and operations, enhancing collaboration and automation in IT operations.
